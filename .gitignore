@@ -1,0 +1,8 @@
+.env
+*.env
+*.localbackup
+venv/
+__pycache__/
+node_modules/
+dist/
+*.zip
